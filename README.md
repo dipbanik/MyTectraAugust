@@ -6,12 +6,17 @@ The course has been divided into modules which represent folders. I have explain
 
 Prerequisite - GIT tutorial - https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 
-Introduction - 
+Introduction - Basic intro to Machine learning
+
 
 Python - PDFs attached
-Exercises - https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
 
-Assignment - Python/Assignment.txt
+Assignment.md file contains assignment for weekend.
+
+Additional Exercises - https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+
+Assignment - Python/Assignment.md
+
 
 Data_Manipulation - 
 
